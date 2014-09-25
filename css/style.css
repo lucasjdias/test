@@ -1,0 +1,10 @@
+body{
+  background: cornflowerblue;
+}
+
+
+/* my name*/
+/* selector, property, value */
+h1 {
+  color: orange;
+}
